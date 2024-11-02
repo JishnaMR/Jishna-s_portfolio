@@ -19,3 +19,7 @@ Feature Extraction with TF-IDF: Applied Term Frequency-Inverse Document Frequenc
 Model Training and Evaluation: Trained a Logistic Regression classifier and evaluated its performance using metrics like accuracy, precision, recall, and F1 score, achieving reliable spam detection.
 
 Implementation in Google Colab: Utilized Google Colab for seamless experimentation and model development, providing a cloud-based, easily accessible environment.
+
+# [project 3:Business_Dashboard_in_Google_Looker_Studio](https://github.com/JishnaMR/Dashboard_with_Google_Studio)
+
+This project involves creating a comprehensive business dashboard using Google Looker Studio. The data source for the dashboard is Google Sheets, where pivot tables were created to aggregate and summarize the data. The main objective of the dashboard is to visualize key business metrics, including sales trends, customer demographics, sales by payment method, and performance across shopping malls.
