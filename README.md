@@ -1,6 +1,6 @@
 # Jishna's_portfolio
 
-#[Project 1:Machine_failure_prediction](https://github.com/JishnaMR/Machine-_failure-_prediction)
+# [Project 1:Machine_failure_prediction](https://github.com/JishnaMR/Machine-_failure-_prediction)
 
 Data Preprocessing and Cleaning: Ensured high-quality input data by handling missing values, encoding categorical variables, and normalizing data, resulting in improved model accuracy.
 
