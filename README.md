@@ -28,6 +28,12 @@ This project involves creating a comprehensive business dashboard using Google L
 
 This project leverages real-time gesture recognition using a web camera to create a virtual drawing application. Built with Python, OpenCV, and MediaPipe, it enables users to draw and control presentations using hand movements, offering an interactive and hands-free experience ideal for teaching and virtual presentations. The system tracks hand and finger movements to create on-screen drawings, making it a versatile tool for visual storytelling and education.
 
-# [project 4: AI-Driven Waste Classification System](https://github.com/JishnaMR/Wast_classifer)
+# [project 5: AI-Driven Waste Classification System](https://github.com/JishnaMR/waste_claasifer_ml_project)
 
 This project employs machine learning and computer vision to classify solid waste into categories such as recyclable, hazardous, food, and residual. Integrated with an automated recycling bin, the system opens the correct lid based on waste type, streamlining the recycling process. Designed for both environmental impact and educational use, it offers a hands-on way for children to learn about waste management and recycling.
+
+# [project 6: Comprehensive Sales Analysis for Business Insights](https://github.com/JishnaMR/Sales_Analysis_Excel)
+
+This project involves a detailed analysis of sales data from January 2019, focusing on key performance indicators such as,Total sales, profit margins, and order volume,Customer segmentation and product category performance,Regional trends and payment mode analysis.
+
+
