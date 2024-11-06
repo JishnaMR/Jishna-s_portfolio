@@ -23,3 +23,7 @@ Implementation in Google Colab: Utilized Google Colab for seamless experimentati
 # [project 3:Business_Dashboard_in_Google_Looker_Studio](https://github.com/JishnaMR/Dashboard_with_Google_Studio)
 
 This project involves creating a comprehensive business dashboard using Google Looker Studio. The data source for the dashboard is Google Sheets, where pivot tables were created to aggregate and summarize the data. The main objective of the dashboard is to visualize key business metrics, including sales trends, customer demographics, sales by payment method, and performance across shopping malls.
+
+# [Project 3: [AI-Powered Virtual Drawing Interface](https://github.com/JishnaMR/virtual_drawing_ml)
+
+This project leverages real-time gesture recognition using a web camera to create a virtual drawing application. Built with Python, OpenCV, and MediaPipe, it enables users to draw and control presentations using hand movements, offering an interactive and hands-free experience ideal for teaching and virtual presentations. The system tracks hand and finger movements to create on-screen drawings, making it a versatile tool for visual storytelling and education.
