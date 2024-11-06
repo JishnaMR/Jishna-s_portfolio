@@ -24,6 +24,10 @@ Implementation in Google Colab: Utilized Google Colab for seamless experimentati
 
 This project involves creating a comprehensive business dashboard using Google Looker Studio. The data source for the dashboard is Google Sheets, where pivot tables were created to aggregate and summarize the data. The main objective of the dashboard is to visualize key business metrics, including sales trends, customer demographics, sales by payment method, and performance across shopping malls.
 
-# [Project 3: AI-Powered Virtual Drawing Interface](https://github.com/JishnaMR/virtual_drawing_ml)
+# [Project 4: AI-Powered Virtual Drawing Interface](https://github.com/JishnaMR/virtual_drawing_ml)
 
 This project leverages real-time gesture recognition using a web camera to create a virtual drawing application. Built with Python, OpenCV, and MediaPipe, it enables users to draw and control presentations using hand movements, offering an interactive and hands-free experience ideal for teaching and virtual presentations. The system tracks hand and finger movements to create on-screen drawings, making it a versatile tool for visual storytelling and education.
+
+# [project 4: AI-Driven Waste Classification System](https://github.com/JishnaMR/Wast_classifer)
+
+This project employs machine learning and computer vision to classify solid waste into categories such as recyclable, hazardous, food, and residual. Integrated with an automated recycling bin, the system opens the correct lid based on waste type, streamlining the recycling process. Designed for both environmental impact and educational use, it offers a hands-on way for children to learn about waste management and recycling.
